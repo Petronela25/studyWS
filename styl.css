@@ -1,1 +1,5 @@
-<link rel="stylesheet" href="styl.css">
+body {
+  background-color: lightyellow;
+  color: darkblue;
+  font-family: Arial;
+}
